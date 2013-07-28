@@ -47,7 +47,8 @@ namespace Fifteen
         Left,
         Right,
         Up,
-        Down
+        Down,
+        FakeChange
     }
 
     class Fish
